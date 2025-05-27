@@ -1,0 +1,8 @@
+running code.ipynb
+Defined constants and speed limits
+Next_state function ready
+Generated and saved reference trajectory
+Feed Forward control function ready
+Starting simulation
+Saving results
+Plotting results
